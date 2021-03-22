@@ -1,0 +1,9 @@
+out/
+*.pdb
+*.exe
+*.obj
+*.rc
+*.log
+*.ilk
+*.res
+*.ninja
